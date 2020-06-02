@@ -1,8 +1,8 @@
 (defproject mw-cli "0.1.6-SNAPSHOT"
   :description "Command-line launcher for MicroWorld engine."
   :url "http://example.com/FIXME"
-  :license {:name "EPL-2.0 OR GPL-2.0-or-later WITH Classpath-exception-2.0"
-            :url "https://www.eclipse.org/legal/epl-2.0/"}
+  :license {:name "GNU General Public License,version 2.0 or (at your option) any later version"
+            :url "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html"}
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [org.clojure/tools.cli "0.4.2"]
                  [org.clojure/tools.reader "1.3.2"]
